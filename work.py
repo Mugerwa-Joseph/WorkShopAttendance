@@ -13,7 +13,7 @@ initialMembers = 0
 curYr = 2021
 
 #Open up the external file to write to:
-ptpOutFile = open("Participants", "w")
+ptpOutFile = open("Participants.txt", "w")
 
 while(initialMembers < ptpNumber):
     #A temporally list to keep the details:
